@@ -14,7 +14,8 @@ The Excel dashboard visualizes:
 - Top 5 Customers – Customers with the highest cumulative sales.
 
 
-![pro2](https://github.com/user-attachments/assets/21be7735-e2b9-4cf7-92be-74a2c2b3989a)
+![cofee-dash](https://github.com/user-attachments/assets/d96c9c13-be8b-40f3-9eed-42957735165e)
+
 
 ### * Data Structure & Initial Checks
 <table>
